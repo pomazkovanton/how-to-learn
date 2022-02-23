@@ -4,7 +4,17 @@
 @import url("../vendor/variables.css");
 
 @import url("../blocks/page/page.css");
+/* Общие блоки */
+@import url("../blocks/logo/logo.css");
+@import url("../blocks/logo/_place_header/logo_place_header.css");
+/* Стили для шапки страницы */
 @import url("../blocks/header/header.css");
+@import url("../blocks/header/__title/header__title.css");
+@import url("../blocks/header/__subtitle/header__subtitle.css");
+@import url("../blocks/header/__link/header__link.css");
+@import url("../blocks/header/__main-ilustartion/header__main-ilustration.css");
+@import url("../blocks/header/__square-pic/header__square-pic.css");
+
 @import url("../blocks/content/content.css");
 @import url("../blocks/description/description.css");
 @import url("../blocks/techniques/techniques.css");
@@ -12,4 +22,3 @@
 @import url("../blocks/kaufman/kaufman.css");
 @import url("../blocks/resources/resources.css");
 @import url("../blocks/footer/footer.css");
-

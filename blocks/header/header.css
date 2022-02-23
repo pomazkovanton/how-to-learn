@@ -1,5 +1,11 @@
 .header {
-  height: 100vh;
+  position: relative;
+
+  display: flex;
+  align-items: center;
   min-height: 600px;
-  max-height: 756px;
+  max-height: 700px;
+  height: 100vh;
+
+  background-color: var(--main-bg-color-light);
 }

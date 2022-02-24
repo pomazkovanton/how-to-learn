@@ -2,11 +2,12 @@
 @import url("../vendor/normalize.css");
 @import url("../vendor/fonts.css");
 @import url("../vendor/variables.css");
-
+/* Глобальные стили */
 @import url("../blocks/page/page.css");
 /* Общие блоки */
 @import url("../blocks/logo/logo.css");
 @import url("../blocks/logo/_place_header/logo_place_header.css");
+@import url("../blocks/rotation/rotation.css");
 /* Стили для шапки страницы */
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__title/header__title.css");

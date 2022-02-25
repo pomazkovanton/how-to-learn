@@ -1,0 +1,10 @@
+.resources__logo {
+  display: block;
+  height: 38px;
+
+  opacity: 0.4;
+}
+
+.resources__logo:hover {
+  opacity: 1;
+}

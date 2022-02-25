@@ -1,0 +1,8 @@
+.table__cell_size_small {
+  width: 200px;
+  margin-top: 80px;
+}
+
+.table__cell_size_small:not(:nth-child(5n)) {
+  margin-right: 25px;
+}

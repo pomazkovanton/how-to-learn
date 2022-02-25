@@ -39,6 +39,8 @@
 /* Стили для блока tyable */
 @import url("../blocks/table/table.css");
 @import url("../blocks/table/__cell/table__cell.css");
+@import url("../blocks/table/__cell/_size/table__cell_size_big.css");
+@import url("../blocks/table/__cell/_size/table__cell_size_small.css");
 @import url("../blocks/table/__heading/table__heading.css");
 @import url("../blocks/table/__text/table__text.css");
 

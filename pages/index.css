@@ -46,6 +46,7 @@
 /* Стили для блока kaufman */
 @import url("../blocks/kaufman/kaufman.css");
 @import url("../blocks/kaufman/_theme/kaufman_theme_dark.css");
+@import url("../blocks/kaufman/__triangle/kaufman__triangle.css");
 
 @import url("../blocks/feynman/feynman.css");
 @import url("../blocks/resources/resources.css");

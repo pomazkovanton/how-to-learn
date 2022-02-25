@@ -28,7 +28,6 @@
 @import url("../blocks/two-columns/__span-accent/two-columns__span-accent.css");
 /* Стили для блока techniques */
 @import url("../blocks/techniques/techniques.css");
-@import url("../blocks/techniques/__section-subtitle/techniques__section-subtitle.css");
 /* Стили для блока cards */
 @import url("../blocks/cards/cards.css");
 @import url("../blocks/cards/__item/cards__item.css");

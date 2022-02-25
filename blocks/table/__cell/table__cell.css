@@ -1,0 +1,8 @@
+.table__cell {
+  width: 250px;
+  margin-top: 60px;
+}
+
+.table__cell:not(:nth-child(4n)) {
+  margin-right: 33px;
+}

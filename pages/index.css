@@ -34,8 +34,14 @@
 @import url("../blocks/cards/__image/cards__image.css");
 @import url("../blocks/cards/__title/cards__title.css");
 @import url("../blocks/cards/__description/cards__description.css");
-
+/* Стили для блока digits */
 @import url("../blocks/digits/digits.css");
+/* Стили для блока tyable */
+@import url("../blocks/table/table.css");
+@import url("../blocks/table/__cell/table__cell.css");
+@import url("../blocks/table/__heading/table__heading.css");
+@import url("../blocks/table/__text/table__text.css");
+
 @import url("../blocks/kaufman/kaufman.css");
 @import url("../blocks/resources/resources.css");
 @import url("../blocks/footer/footer.css");

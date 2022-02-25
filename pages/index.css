@@ -36,13 +36,15 @@
 @import url("../blocks/cards/__description/cards__description.css");
 /* Стили для блока digits */
 @import url("../blocks/digits/digits.css");
-/* Стили для блока tyable */
+/* Стили для блока table */
 @import url("../blocks/table/table.css");
 @import url("../blocks/table/__cell/table__cell.css");
 @import url("../blocks/table/__cell/_size/table__cell_size_big.css");
 @import url("../blocks/table/__cell/_size/table__cell_size_small.css");
 @import url("../blocks/table/__heading/table__heading.css");
 @import url("../blocks/table/__text/table__text.css");
+/* Стили для блока feynman */
+@import url("../blocks/feynman/feynman.css");
 
 @import url("../blocks/kaufman/kaufman.css");
 @import url("../blocks/resources/resources.css");

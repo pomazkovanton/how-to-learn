@@ -43,10 +43,10 @@
 @import url("../blocks/table/__cell/_size/table__cell_size_small.css");
 @import url("../blocks/table/__heading/table__heading.css");
 @import url("../blocks/table/__text/table__text.css");
-/* Стили для блока feynman */
-@import url("../blocks/feynman/feynman.css");
-@import url("../blocks/feynman/_theme/feynman_theme_dark.css");
-
+/* Стили для блока kaufman */
 @import url("../blocks/kaufman/kaufman.css");
+@import url("../blocks/kaufman/_theme/kaufman_theme_dark.css");
+
+@import url("../blocks/feynman/feynman.css");
 @import url("../blocks/resources/resources.css");
 @import url("../blocks/footer/footer.css");

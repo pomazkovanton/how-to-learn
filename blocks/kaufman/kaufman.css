@@ -1,0 +1,11 @@
+.kaufman {
+  max-width: 1440px;
+  margin: auto;
+  margin-top: 100px;
+  padding-top: 88px;
+  padding-bottom: 88px;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}

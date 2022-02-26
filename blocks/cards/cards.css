@@ -1,9 +1,12 @@
 .cards {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-row-gap: 60px;
+  grid-column-gap: 100px;
   max-width: 920px;
   margin: 0;
   padding: 0;
+  padding-top: 60px;
 
   list-style: none;
 }

@@ -2,14 +2,11 @@
   position: absolute;
   top: 50%;
   right: 48px;
-
   margin-top: 51px;
-
+  color: var(--main-link);
   font-size: 36px;
   line-height: 51px;
   text-decoration: none;
-  color: var(--main-link);
-
   transition: opacity 0.6s linear;
 }
 

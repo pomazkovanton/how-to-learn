@@ -3,12 +3,10 @@
   right: 0;
   bottom: 0;
   z-index: 1;
-
   width: 765px;
   height: 608px;
-
-  background-image: url("../../../images/header-image.png");
-  background-position: center;
+  background-image: url('../../../images/header-image.png');
   background-repeat: no-repeat;
+  background-position: center;
   background-size: contain;
 }

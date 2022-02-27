@@ -1,7 +1,6 @@
 .header__link {
-  text-decoration: none;
   color: var(--main-link);
-
+  text-decoration: none;
   transition: opacity 0.6s linear;
 }
 

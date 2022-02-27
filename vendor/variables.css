@@ -2,8 +2,7 @@
   --main-bg-color-dark: #1f1f1f;
   --main-bg-color-light: #f2f2f2;
   --main-link: #2f80ed;
-  --main-text: #000000;
-  --main-light: #ffffff;
-
-  --main-font: 'Inter', Arial, sans-serif;
+  --main-text: #000;
+  --main-light: #fff;
+  --main-font: 'Inter', arial, sans-serif;
 }

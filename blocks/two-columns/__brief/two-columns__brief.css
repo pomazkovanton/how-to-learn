@@ -2,9 +2,8 @@
   width: 175px;
   margin: 0;
   margin-right: 55px;
-
+  color: var(--main-link);
+  font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  font-weight: 400;
-  color: var(--main-link);
 }

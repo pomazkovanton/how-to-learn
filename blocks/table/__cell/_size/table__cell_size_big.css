@@ -1,8 +1,0 @@
-.table__cell_size_big {
-  width: 250px;
-  margin-top: 60px;
-}
-
-.table__cell_size_big:not(:nth-child(4n)) {
-  margin-right: 33px;
-}

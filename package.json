@@ -1,0 +1,31 @@
+{
+  "name": "how-to-learn",
+  "version": "1.0.0",
+  "description": "Проект реализован с помощью HTML и CSS, также были использованы нэйминг и файловая структура по БЭМ.",
+  "main": "index.js",
+  "scripts": {
+    "stylelint": "stylelint ./blocks/**/*.css --color",
+    "stylelint:fix": "stylelint ./blocks/**/*.css --color --fix"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-idiomatic-order": "^8.1.0",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^22.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-prettier": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pomazkovanton/how-to-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pomazkovanton/how-to-learn/issues"
+  },
+  "homepage": "https://github.com/pomazkovanton/how-to-learn#readme"
+}

@@ -1,4 +1,6 @@
 .footer {
+  box-sizing: border-box;
+  min-height: 350px;
   padding-top: 60px;
   padding-bottom: 40px;
   background-color: var(--main-bg-color-dark);
